@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 </h1>
 
 </div>
+<div align="center">
+    <img alt="Coding" width="400" src="./3225202442.gif">
+
+
+</div>
 
 ### :computer: About Me :
 
@@ -40,13 +45,14 @@ Im a dev Junior from France (Paris) and a student from Epitech Paris. :fr:
 - :basketball: In my free time I play basketball or coding :eyes:
 - :iphone: You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-ta-261727254/)
 
+<h1>
 
-<div align="center">
-    <img alt="Coding" width="400" src="./3225202442.gif">
+</h1>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DYDY2MONOI&theme=yellowdark&locale=fr&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" width="40" height="40"/>&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DYDY2MONOI&theme=yellowdark&locale=fr&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 </div>
-
-
-</div>
-
