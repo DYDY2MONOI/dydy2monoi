@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love cat
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYDY2MONOI)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DYDY2MONOI)](https://git.io/streak-stats)
