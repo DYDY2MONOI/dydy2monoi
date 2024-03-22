@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 
 ### :computer: About Me :
 
+Im a dev Junior from France (Paris) and a student from Epitech Paris. :fr:
+
+- :telescope: Im studying code more than 1 year and im loving that ;)
+- :office: Im looking for internship :eyes:
+- :basketball: In my free time I play basketball or coding :eyes:
+- :iphone: You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-ta-261727254/)
+
 
 <div align="center">
     <img alt="Coding" width="400" src="./3225202442.gif">
