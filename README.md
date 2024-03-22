@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love cat
 -->
-![GIF](3225202442;gif)
-  <img align="right" alt="Coding" width="400" src=GIF>
+![GIF](./3225202442.gif)
+<img align="right" alt="Coding" width="400" src="./3225202442.gif">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DYDY2MONOI)](https://git.io/streak-stats)
