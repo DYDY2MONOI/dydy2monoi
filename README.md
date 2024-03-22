@@ -16,6 +16,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love cat
 -->
-<img align="right" alt="Coding" width="400" src="./3225202442.gif">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DYDY2MONOI)](https://git.io/streak-stats)
+  <a href="https://www.linkedin.com/in/dylan-ta-261727254/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<h1>
+  Hello there !
+  Bonjour !
+</h1>
+
+</div>
+
+### :computer: About Me :
+
+
+<div align="center">
+    <img alt="Coding" width="400" src="./3225202442.gif">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DYDY2MONOI&theme=yellowdark&locale=fr&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</div>
+
+
+</div>
+
