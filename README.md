@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### :computer: About Me :
 
-Im a dev Junior from France (Paris) and a student from Epitech Paris. :fr:
+Im a dev Junior from France (Paris) and student from Epitech Paris. :fr:
 
 - :telescope: Im studying code more than 1 year
 - :office: Im looking for internship :eyes:
