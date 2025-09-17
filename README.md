@@ -41,6 +41,8 @@ Im a dev Junior from France (Paris) and student from Epitech Paris. :fr:
 - :telescope: Im studying code more than 4 year
 - :office: Im looking for internship :eyes:
 - :iphone: You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-ta-261727254/)
+- :briefcase: Mon profil Malt [![Malt Badge](https://img.shields.io/badge/Malt-orange?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/dylanta)
+- :globe_with_meridians: Mon portfolio [![Portfolio Badge](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://dylanta.vercel.app/)
 
 </td>
 <td width="40%">
