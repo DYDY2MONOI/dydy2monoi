@@ -30,23 +30,28 @@ Here are some ideas to get you started:
 </h1>
 
 </div>
-<div align="center">
-    <img alt="Coding" width="400" src="./3225202442.gif">
-
-
-</div>
+<table>
+<tr>
+<td width="60%">
 
 ### :computer: About Me :
 
 Im a dev Junior from France (Paris) and student from Epitech Paris. :fr:
 
-- :telescope: Im studying code more than 1 year
+- :telescope: Im studying code more than 4 year
 - :office: Im looking for internship :eyes:
 - :iphone: You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-ta-261727254/)
 
-<h1>
+</td>
+<td width="40%">
 
-</h1>
+<div align="center">
+    <img alt="Coding" width="400" src="./3225202442.gif">
+</div>
+
+</td>
+</tr>
+</table>
 
 ### :hammer_and_wrench: Languages and Tools :
 
